@@ -22,7 +22,7 @@ The dataset used in this project is the [KDD Cup 1999](http://kdd.ics.uci.edu/da
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/username/masters-project-network-intrusion-detection.git
+   git clone https://github.com/darlingtonchigozieokeke/masters-network-intrusion-detection-project.git
    cd masters-project-network-intrusion-detection
    ```
 
